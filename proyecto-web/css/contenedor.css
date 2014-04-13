@@ -1,0 +1,22 @@
+#contenido-general{
+     width: 1200px;
+	 margin:70px;
+}
+ 
+#publi-izquierda{
+     width: 200px;
+	 float:left;
+	 
+} 
+ 
+#cuerpo{
+      width: 900px;
+	  margin:0 auto;
+	  text-align:center;
+}
+ 
+#publi-derecha{
+     width: 100px;
+	 float:right;
+	 
+}
